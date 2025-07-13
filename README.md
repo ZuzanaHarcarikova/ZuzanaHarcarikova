@@ -16,7 +16,7 @@ Exploratory analysis in Python
 
 📍 Currently open to junior data analyst roles.
 
-Let's connect on LinkedIn 💬
+Let's connect on LinkedIn 💬 linkedin/zuzana-harčariková-597605202
 
 <!--
 **ZuzanaHarcarikova/ZuzanaHarcarikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
